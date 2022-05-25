@@ -1,0 +1,10 @@
+.trending {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-left:45px ;
+    padding-right:45px ;
+    padding-bottom: 95px;
+    
+
+  }

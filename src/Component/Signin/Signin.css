@@ -1,0 +1,64 @@
+.App {
+    text-align: center;
+  }
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+  }
+  
+  .lContainer {
+    display:grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto 38px;
+    justify-items: center;
+    align-items: center;
+    grid-template-rows: 100vh;
+    background-color: #25282e;
+  }
+
+  .Card {
+    background-color: #383d42;
+    height: 350px ;
+    width: 400px ;
+    padding-left: 30px;
+    padding-top: 30px;
+      margin-top: -60px;
+      margin-left:-30px;
+      margin-right:-30px;
+      border-radius: 15px;
+      border: 1px solid #383d42;
+  }
+
+  .loginImage {
+    margin-top: -160px;
+    margin-bottom: 70px;
+  }
+
+ .form-group {
+   padding-right: 30px;
+ } 
+ .form-control {
+  margin:0 0 10px 0;
+}
+
+.btn {
+  margin:20px 0;
+  padding-right: 30px 0 ;
+  padding-left: 30px 0 ;
+  background-color: #B29324;
+  border-radius: 5px;
+  height:  35px;
+  width: 280px;
+}
+
+
+.forgot-password a {
+  text-align: right;
+  padding-top: 10px;
+  color: #7f7d7d;
+  margin: 0;
+}
+.forgot-password a {
+  color: #167bff;
+}

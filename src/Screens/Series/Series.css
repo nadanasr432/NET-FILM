@@ -1,0 +1,9 @@
+.series{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    list-style: none;
+    text-decoration: none;
+    padding-left:45px ;
+    padding-right: 45px;
+  }
